@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\AP_NhuHoangMinhDuc\AP\AP\bin\Debug\AP.exe.config
+C:\Users\Pc\Desktop\AP_NhuHoangMinhDuc\AP\AP\bin\Debug\AP.exe
+C:\Users\Pc\Desktop\AP_NhuHoangMinhDuc\AP\AP\bin\Debug\AP.pdb
+C:\Users\Pc\Desktop\AP_NhuHoangMinhDuc\AP\AP\obj\Debug\AP.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\AP_NhuHoangMinhDuc\AP\AP\obj\Debug\AP.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\AP_NhuHoangMinhDuc\AP\AP\obj\Debug\AP.exe
+C:\Users\Pc\Desktop\AP_NhuHoangMinhDuc\AP\AP\obj\Debug\AP.pdb
